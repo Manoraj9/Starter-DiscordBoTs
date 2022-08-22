@@ -8,7 +8,7 @@
 > ### commands.py
 > basic embed of the featuring bot's commands.
 
-> ### commands.py
+> ### rules.py
 > embed for basic discord server rules.
 
 > ### chatBot.py
