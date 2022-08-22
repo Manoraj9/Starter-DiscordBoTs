@@ -1,2 +1,4 @@
-# RajKumar-discordBoT
-code of my first dc BoT.
+# Starter Discord bot's Templates
+## All written in discord.py
+
+**you can find keep alive also**
